@@ -185,9 +185,3 @@ This experiment demonstrates:
 - Deploying a JSP application on Apache Tomcat
 - Using Maven for Java web applications
 
-## Author
-
-**Aryan Soni**
-
-B.Tech – Computer Science Engineering  
-Poornima University, Jaipur
